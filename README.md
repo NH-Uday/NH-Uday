@@ -1,4 +1,4 @@
-# Hello World!, Lets create the future 👋🏼:
+# Hello World!, Lets create the future 👋🏼
 # 💫 About Me:
 I am a highly motivated Data Analyst and Simulation expert with hands-on experience in data analysis, machine learning, and<br>application development. Adept at working in collaborative environments and delivering data-driven insights. Proficient in<br>Python, SQL, and modern data visualization tools, with a strong academic foundation and a commitment to continuous<br>learning.
 
